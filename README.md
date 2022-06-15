@@ -12,5 +12,5 @@ tbd
 ### Economic indicators of interest:
 tbd
 
-### Conculsion:
+### Conclusion:
 tbd
