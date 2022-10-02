@@ -1,4 +1,4 @@
-# Vector Autoregressive Inflation Forecasting
+# Vector Autoregressive Inflation Forecasting with Feature Selection via Traditional vs Machine Learning Methods
 ~ under dev
 
 ## Executive Summary:
